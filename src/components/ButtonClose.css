@@ -1,0 +1,17 @@
+.buttonClose {
+ height: 12px;
+ width: 12px;
+ border-radius: 100px;
+}
+
+.yellow {
+ background-color: #c7a717;
+}
+
+.red {
+ background-color: #da250d;
+}
+
+.green {
+ background-color: #08ba4f;
+}
